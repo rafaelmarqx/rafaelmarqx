@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://github.com/rafaelmarqx" target="_blank"><img src="img/icons8-github.svg" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:rafaelmarqx@gmail.com" target="_blank"><img src="img/icons8-gmail.svg" width="50px" height="50px"/></a>
+<td><a href="mailto:rafaelmarques1590@gmail.com" target="_blank"><img src="img/icons8-gmail.svg" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/rafaelmarqx/" target="_blank"><img src="img/icons8-instagram.svg" width="50px" height="50px"/></a>
 </td>
