@@ -38,9 +38,7 @@
 <img height="20" alt="GIF" src="https://github.com/rafaelmarqx/rafaelmarqx/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Estudante de Sistemas de Informação no Centro Universitário Newton Paiva (2022-2026) e Estagiário em Engenharia de Dados no Inter. Sou amante do Voleibol e também da música.
-
-Anteriormente, adquiri experiência em análise de dados durante meu período na TW Estruturação e Direcionamento, onde trabalhei por 9 meses. Nestsa função, utilizei ferramentas como Power BI e Excel, desenvolvendo habilidades em interação com o cliente e visualização de dados. Foi uma experiência verdadeiramente excepcional, durante os 9 meses que estive lá fui imerso em um ambiente que valorizava o aprendizado e o crescimento, tive a oportunidade de trabalhar em projetos desafiadores que me permitiram desenvolver minhas habilidades de forma significativa. 
+Estudante de Sistemas de Informação no Centro Universitário Newton Paiva (2022-2026) e Estagiário em Engenharia de Dados no Inter. Sou amante do Voleibol e também da música. Anteriormente, adquiri experiência em análise de dados durante meu período na TW Estruturação e Direcionamento, onde trabalhei por 9 meses. Nestsa função, utilizei ferramentas como Power BI e Excel, desenvolvendo habilidades em interação com o cliente e visualização de dados. Foi uma experiência verdadeiramente excepcional, durante os 9 meses que estive lá fui imerso em um ambiente que valorizava o aprendizado e o crescimento, tive a oportunidade de trabalhar em projetos desafiadores que me permitiram desenvolver minhas habilidades de forma significativa. 
 </div>
 
 ----- Meus Interesses Pessoais 
