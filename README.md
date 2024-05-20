@@ -33,7 +33,7 @@
 <i><b>Olá</b> :wave:, sou o <code>Rafa</code>, tenho 20 anos, moro em BH e estudande da área de TI desde 2021. Atualmente sou <code>Estagiário</code> em Engenharia de Dados. Curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
 
------
+----
 
 <img height="20" alt="GIF" src="https://github.com/rafaelmarqx/rafaelmarqx/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
