@@ -27,7 +27,7 @@
 </table>
 </div>
 
----- Texto Apresentação
+---- 
 
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Rafa</code>, tenho 20 anos, moro em BH e estudande da área de TI desde 2021. Atualmente sou <code>Estagiário</code> em Engenharia de Dados. Curso Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
